@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+### [page2](https://varan42.github.io/page2/)
 You can use the [editor on GitHub](https://github.com/varan42/varkentin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
